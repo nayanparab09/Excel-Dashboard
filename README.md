@@ -2,6 +2,8 @@
 It includes the sales and retail data 
 It is based on the product sales and orders
 It contains some calculations and formulas
+
+
 ## components used 
 1) Serial no
 2) Date
